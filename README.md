@@ -1,6 +1,6 @@
 # nr-terraform-dashboards
 
-[![Sample Dashboard](https://github.com/edisoncastro01/nr-terraform-dashboards/blob/master/Screenshots/SampleDashboard.png)]
+[![Sample Dashboard](https://github.com/edisoncastro01/nr-terraform-dashboards/blob/master/Screenshots/SampleDashboard.png)](https://github.com/edisoncastro01/nr-terraform-dashboards)
 
 Sample terraform configuration for creating NR dashboards
 
