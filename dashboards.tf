@@ -1,9 +1,9 @@
-data "newrelic_entity" "pathpoint-trading-grid2" {
+data "newrelic_entity" "your entity name" {
   name = var.app_name
   type = "APPLICATION"
   domain = "APM"
 }
-resource "newrelic_dashboard" "pathpoint-trading-grid2" {
+resource "newrelic_dashboard" "your resource name" {
   title             = var.dashboard_name
   grid_column_count = 3
 
