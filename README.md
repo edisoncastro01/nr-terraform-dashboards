@@ -2,7 +2,7 @@
 
 [![Sample Dashboard](https://github.com/edisoncastro01/nr-terraform-dashboards/blob/master/Screenshots/SampleDashboard.png)](https://github.com/edisoncastro01/nr-terraform-dashboards)
 
-Sample terraform configuration for creating NR dashboards
+## Sample terraform configuration for creating NR dashboards
 
 Make sure the terraform CLI is installed or install it before following any of the steps below. Here is more information about how to install it:
 
