@@ -15,5 +15,10 @@ After modifiying the config files with your own configurations you can run the f
 **Then run the following command to apply the changes**
 
 *terraform plan -var NEWRELIC_ACCOUNT_ID=<Your Account RPM ID> -var NEWRELIC_API_KEY="<YOu NR user Admin API Key>" -var NEWRELIC_REGION="<US or EU>" -var dashboard_name="<Your Dashboard Name>" -var entity_id="<Entity ID if applicable>" -var app_name="<You APM App Name if Applicable>"*
+  
+  
+[Here is more information about the terraform newrelic provider](https://registry.terraform.io/providers/newrelic/newrelic/latest/docs)
+
+[And here are more details about the newrelic dashboard resource](https://registry.terraform.io/providers/newrelic/newrelic/latest/docs/resources/dashboard)
 
 
