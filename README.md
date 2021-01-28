@@ -9,7 +9,7 @@ Make sure the terraform CLI is installed or install it before following any of t
 [How to install terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 
-After modifiying the config files with your own configurations you can run the following commands to create the dashboar in your New Relic account:
+After modifiying the config files with your own configuration you can run the following commands to create the dashboar in your New Relic account:
 
 **First this command ro create and visualize a plan:**
 
