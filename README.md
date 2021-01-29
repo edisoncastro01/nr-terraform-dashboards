@@ -4,14 +4,19 @@
 
 ## Sample terraform configuration for creating NR dashboards
 
-Make sure the terraform CLI is installed or install it before following any of the steps below. Here is more information about how to install it:
+-Make sure the terraform CLI is installed or install it before following any of the steps below. Here is more information about how to install it:
 
 [How to install terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
+-Create a working directory and copy all the *.tf files on this repo:
+To create the directory use:   mkdir YourDirectoryName
+To move to the new directory:  cd YourDirectoryName
 
-After modifiying the config files with your own configuration you can run the following commands to create the dashboard in your New Relic account:
+      
 
-**First this command ro create and visualize a plan:**
+-After modifiying the config files with your own configuration you can run the following commands to create the dashboard in your New Relic account:
+
+**First run this command to create and visualize a plan:**
 
 *terraform plan -var NEWRELIC_ACCOUNT_ID=<Your Account RPM ID> -var NEWRELIC_API_KEY="<YOu NR user Admin API Key>" -var NEWRELIC_REGION="<US or EU>" -var dashboard_name="<Your Dashboard Name>" -var entity_id="<Entity ID if applicable>" -var app_name="<You APM App Name if Applicable>"*
 
