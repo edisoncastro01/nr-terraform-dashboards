@@ -17,7 +17,6 @@
       To cnage to the new directory:  cd YourDirectoryName
 
 -Download the repo zip file:
-      
       To download the repo zip file: [![Download repo Zip file](https://github.com/edisoncastro01/nr-terraform-dashboards/blob/master/Screenshots/GithubRepoZidDownload.png)](https://github.com/edisoncastro01/nr-terraform-dashboards)
 
 -Uzip the repo file into your new directory
