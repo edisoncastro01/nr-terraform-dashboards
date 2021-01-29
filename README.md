@@ -9,10 +9,12 @@
 [How to install terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 -Create a working directory and copy all the *.tf files on this repo:
-To create the directory use:   mkdir YourDirectoryName
-To move to the new directory:  cd YourDirectoryName
-
-      
+      To create the directory use:   mkdir YourDirectoryName
+-Change directory to the create directory
+      To cnage to the new directory:  cd YourDirectoryName
+-Download the repo zip file:
+      To download the repo zip file: [![Download repo Zip file](https://github.com/edisoncastro01/nr-terraform-dashboards/blob/master/Screenshots/GithubRepoZidDownload.png)](https://github.com/edisoncastro01/nr-terraform-dashboards)
+-Uzip the repo file into your new directory
 
 -After modifiying the config files with your own configuration you can run the following commands to create the dashboard in your New Relic account:
 
